@@ -1,4 +1,3 @@
-# sentral-bunge
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -66,7 +65,7 @@ box-shadow:0 4px 10px rgba(0,0,0,0.3);
 <p>Hubungi kami langsung melalui WhatsApp</p>
 </section>
 
-<a href="https://wa.me/085753175079" class="whatsapp" target="_blank">💬</a>
+<a href="https://wa.me/6285753175079" class="whatsapp" target="_blank">💬</a>
 
 <footer>
 <p>&copy; 2026 Sentral Bunge</p>
