@@ -1,4 +1,13 @@
-body{font-family:Arial;margin:0;background:#fffafc;color:#333}
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #fffafc;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 header{background:#ff69b4;color:white;padding:15px}
 nav a{color:white;margin-right:15px;text-decoration:none;font-weight:bold}
 .hero{text-align:center;padding:60px;background:#ffe4ec}
