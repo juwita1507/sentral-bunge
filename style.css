@@ -1,0 +1,21 @@
+body{font-family:Arial;margin:0;background:#fffafc;color:#333}
+header{background:#ff69b4;color:white;padding:15px}
+nav a{color:white;margin-right:15px;text-decoration:none;font-weight:bold}
+.hero{text-align:center;padding:60px;background:#ffe4ec}
+section{padding:40px}
+footer{background:#ff69b4;color:white;text-align:center;padding:15px}
+input,textarea{width:100%;padding:8px;margin-bottom:10px}
+button{background:#ff69b4;color:white;border:none;padding:10px}
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  color: white;
+  font-size: 26px;
+  padding: 12px 15px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  z-index: 999;
+}
